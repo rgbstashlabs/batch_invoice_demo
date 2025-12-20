@@ -1,0 +1,6 @@
+.env
+python/.env
+rust/.env
+python/venv
+rust/target
+python/__pycache__
